@@ -1,0 +1,1 @@
+function roofpatch:half_second_clock

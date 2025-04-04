@@ -1,1 +1,0 @@
-function beqaa:half_second_clock
